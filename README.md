@@ -1,4 +1,4 @@
-# Clone do Twitter
+# Twitter Clone
 
 Este é um projeto de clone do antigo Twitter, desenvolvido para aprimorar práticas de desenvolvimento web. A aplicação foi construída utilizando o padrão MVC (Model-View-Controller) e inclui funcionalidades básicas como autenticação de usuário, postagem de tweets e seguir/desseguir usuários.
 
